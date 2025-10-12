@@ -1,4 +1,4 @@
-# 🌱 Hey, I'm Ozodbek — aka [devosauruz](https://github.com/devosauruz)
+# 🌱 Hey, I'm Ozodbek — [devosauruz](https://github.com/devosauruz) 🦖
 
 > _“Keep growing, one commit at a time.”_
 
