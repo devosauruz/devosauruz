@@ -1,32 +1,38 @@
-<h1 align="center">✨ Hi, I'm Ozodbek ✨</h1>
+# 🌱 Hey, I'm Ozodbek — aka [devosauruz](https://github.com/devosauruz)
 
-<p align="center">
-  <b>Full Stack Developer</b> • MERN Stack <br/>
-  Student at <b>IT Park University × EPAM</b> <br/>
-  Certified by <b>Qwasar Silicon Valley</b> 🎓
-</p>
+> _“Keep growing, one commit at a time.”_
 
 ---
 
-### 🧠 Tech Stack  
-💻 JavaScript • ⚛️ React • 🌿 Node.js • 🚀 Express  
-🗄️ MongoDB • 🐘 PostgreSQL • 🎨 TailwindCSS  
+### 🧠 About Me
+🎓 Student at **IT Park University × EPAM**  
+💻 **Full Stack Developer** — MERN Stack  
+🧩 Passionate about **UI/UX, scalable web apps**, and creative AI tools  
 
 ---
 
-### 🔭 Currently  
-Building scalable web apps and exploring **UI/UX + AI** 💡  
-Always learning, always improving. ⚙️  
+### 🌿 Current Growth
+- 🚀 Building **UzForm.uz**, an open community platform  
+- 🧠 Exploring **PostgreSQL**, **Next.js**, and **AI integrations**  
+- 🎯 Focusing on **clean code** and **human-centered design**
 
 ---
 
-### 🌐 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+### 🪴 Tech Garden
+`JavaScript` · `ReactJS` · `NextJS` · `Node.js` · `Express`  
+`MongoDB` · `PostgreSQL` · `TailwindCSS`
 
 ---
 
-<p align="center">
-  <i>"Code. Learn. Create. Repeat."</i> ⚡
-</p>
+### 🌸 Stats & Seeds
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devosauruz&theme=tokyonight&hide_border=true)
+
+---
+
+### 🌻 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ozodbek-bakhriddinov)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:baxriddinov393@example.com)
+
+---
+
+> 🪶 _“Code is a garden — every day you plant, prune, and grow.”_
