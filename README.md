@@ -17,7 +17,7 @@
 ---
 
 ### 📊 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=uzform&show_icons=true&theme=tokyonight)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=devosauruz&show_icons=true&theme=tokyonight)
 
 ---
 
