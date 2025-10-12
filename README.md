@@ -1,26 +1,75 @@
-# 👋 Hi, I'm UzForm!
-### 🚀 MERN stack developer | 17 y/o | Building the future of Uz web
+# Hi there, I'm Ozodbek 👋
 
-- 🔭 I’m currently working on **UzForm** — Reddit-like platform for Uzbekistan  
-- 🌱 Learning: React, Node.js, PostgreSQL  
-- 💬 Ask me about: frontend architecture, UX for youth communities  
-- ⚡ Fun fact: I started coding at 14 and never stopped  
+<div align="center">
+  
+### Full Stack Developer | MERN Stack Engineer
+**Student Developer at IT Park University**  
+*In partnership with EPAM*
 
----
+[![Qwasar Silicon Valley](https://img.shields.io/badge/Certified-Qwasar_Silicon_Valley-blue?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiA3TDEyIDEyTDIyIDdMMTIgMloiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CjxwYXRoIGQ9Ik0yIDEyTDEyIDE3TDIyIDEyIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8L3N2Zz4K)](https://qwasar.io)
 
-### 🧠 My Tech Stack
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
-![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql)
-![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
+</div>
 
 ---
 
-### 📊 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=devosauruz&show_icons=true&theme=tokyonight)
+## 🚀 About Me
+
+I'm a passionate full stack developer specializing in the MERN stack, currently advancing my skills at IT Park University through their strategic partnership with EPAM. I hold a Full Stack Development certification from Qwasar Silicon Valley, which has equipped me with industry-standard practices and problem-solving methodologies.
+
+I'm driven by creating scalable web applications and exploring the intersection of clean code, modern UI/UX, and emerging technologies.
+
+## 💻 Tech Stack
+
+**Frontend**
+```
+JavaScript (ES6+)  •  React.js  •  TailwindCSS  •  HTML5  •  CSS3
+```
+
+**Backend**
+```
+Node.js  •  Express.js  •  RESTful APIs
+```
+
+**Database**
+```
+MongoDB  •  PostgreSQL
+```
+
+**Tools & Platforms**
+```
+Git  •  GitHub  •  GitHub Actions  •  VS Code  •  Postman
+```
+
+## 🌱 Currently Learning
+
+- Advanced React patterns and performance optimization
+- Microservices architecture
+- Cloud deployment (AWS/Azure)
+- DevOps practices and CI/CD pipelines
+
+## 🎯 Interests
+
+- **UI/UX Design** – Crafting intuitive and beautiful user experiences
+- **Startup Ecosystem** – Building products that solve real problems
+- **AI & Automation** – Exploring the future of intelligent applications
+- **Productivity Tools** – Optimizing workflows and development processes
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
 
 ---
 
-### 🕸️ Social
-[![Instagram](https://img.shields.io/badge/Instagram-follow-red?logo=instagram)](https://instagram.com/uzform)
-[![Telegram](https://img.shields.io/badge/Telegram-chat-blue?logo=telegram)](https://t.me/uzform)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/your-github-username">Ozodbek</a></i>
+</div>
