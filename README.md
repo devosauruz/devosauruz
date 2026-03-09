@@ -12,7 +12,7 @@
 ---
 
 ### 🌿 Current Growth
-- 🚀 Building **UzForm.uz**, an open community platform  
+- 🚀 Building **AllMaster.uz**, an open community platform  
 - 🧠 Exploring **PostgreSQL**, **Next.js**, and **AI integrations**  
 - 🎯 Focusing on **clean code** and **human-centered design**
 
