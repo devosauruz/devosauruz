@@ -5,13 +5,14 @@
 ---
 
 ### 🧠 About Me
-🎓 Student at **IT Park University × EPAM**  
+🎓 Student at **IT Park University × EPAM** - learning java advanced backend  
 💻 **Full Stack Developer** — MERN Stack  
-🧩 Passionate about **UI/UX, scalable web apps**, and creative AI tools  
+🧩 Passionate about **UI/UX, scalable web apps**, and creative tools  
 
 ---
 
 ### 🌿 Current Growth
+- 👾 Building **GameLab.uz**, full control ecosystem for game clubs
 - 🚀 Building **AllMaster.uz**, an temporary job finding platform  
 - 🧠 Exploring **PostgreSQL**, **Next.js**, and **AI integrations**  
 - 🎯 Focusing on **clean code** and **human-centered design**
