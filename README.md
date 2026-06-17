@@ -1,6 +1,4 @@
-# 🌱 Hey, I'm Ozodbek — [devosauruz](https://github.com/devosauruz) 🦖
-
-> _“Keep growing, one commit at a time.”_
+# Hey, I'm Ozodbek — [devosauruz](https://github.com/devosauruz) 🦖
 
 ---
 
